@@ -9,4 +9,4 @@ You must create a database (in this case, named banco2022) containing 3 fields:
 
 It is an exercise for the user to create the database and the table in MySQL.
 
-* Make on Visual Studio 2022.
+<i>Make on Visual Studio 2022</i>.
